@@ -7,7 +7,7 @@ Code which sets up both the networking and compute infrastructure for a high-ava
 
 Below is a diagram of the infrastructure that was created:
 
-![Alt text](images/InfrastructureDiagram.pdf)
+![Alt text](images/infrastructure_diagram.png)
 
 
 ## Update / Create Scripts
